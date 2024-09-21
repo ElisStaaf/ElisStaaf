@@ -1,7 +1,7 @@
 Hello World! 👋
 ---------
 [![Editor](https://img.shields.io/badge/Code%20Editor-Neovim-brightgreen?logo=Neovim)](https://neovim.io) 
-[![Lang](https://img.shields.io/badge/Favourite%20Language-Golang-blue?icon=go)](https://go.dev)  
+[![Lang](https://img.shields.io/badge/Favourite%20Language-Golang-blue?logo=Go)](https://go.dev)  
 I'm a fullstack developer that mostly programs tools/apps!
 
 ### Im good at
