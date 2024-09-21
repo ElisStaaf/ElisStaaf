@@ -5,6 +5,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisStaaf&theme=github_dark&layout=compact" />
 </a>
 
+<br/>
+<br/>
+
+
 ## Repos:
 * [MochaVim](https://github.com/ElisStaaf/MochaVim)
   * The Neovim beginner's best friend!  
