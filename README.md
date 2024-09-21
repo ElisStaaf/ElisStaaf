@@ -6,7 +6,7 @@
                     ███████╗███████╗██║███████║███████║   ██║   ██║  ██║██║  ██║██║     
                     ╚══════╝╚══════╝╚═╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisStaaf&hide=php)](https://github.com/ElisStaaf)
+
 Hi! I am a programmer that sometimes programs which
 is, uhh, what a programmer does?? I mostly write golang or typescript,
 sometimes bash or powershell! So yeah, that's what i do; program. I do cool stuff.
