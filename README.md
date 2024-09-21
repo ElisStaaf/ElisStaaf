@@ -1,11 +1,12 @@
-Hi there! 👋
+Hello World! 👋
 ---------
-
+[![Editor](https://img.shields.io/badge/Code%20Editor-Neovim-brightgreen?logo=Neovim)](https://neovim.io) 
+[![Lang](https://img.shields.io/badge/Favourite%20Language-Golang-blue?icon=go)](https://go.dev)  
 I'm a fullstack developer that mostly programs tools/apps!
 
 ### Im good at
-[![SkillsRow1](https://skillicons.dev/icons?i=c,go,typescript,javascript,html)](https://github.com/ElisStaaf)  
-[![SkillsRow2](https://skillicons.dev/icons?i=css,python,godot,powershell,bash)](https://github.com/ElisStaaf)
+[![Skills](https://skillicons.dev/icons?i=c,go,typescript,javascript,html)](https://github.com/ElisStaaf)  
+[![Skills](https://skillicons.dev/icons?i=css,python,godot,powershell,bash)](https://github.com/ElisStaaf)
 
 ### I'm learning
 [![Learning](https://skillicons.dev/icons?i=lua,rust,cs,dotnet,cpp,)](https://github.com/ElisStaaf)
