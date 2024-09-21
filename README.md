@@ -9,4 +9,5 @@
 * [NanoWiki](https://github.com/ElisStaaf/NanoWiki)
   * Small locally hosted wiki, written in both
     Golang and HTML!
-* []
+* [pyMod](https://github.com/ElisStaaf/pyMod) $\textsf{\color{orange} (no longer in development)}$
+  * All-in-one python module! That failed...
