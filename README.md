@@ -1,8 +1,8 @@
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=github_dark&hide=contribs&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=dracula&hide=contribs&show_icons=true" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisStaaf&theme=github_dark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisStaaf&theme=dracula&layout=compact" />
 </a>
 
 <br/>
