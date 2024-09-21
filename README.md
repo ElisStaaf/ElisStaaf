@@ -9,10 +9,10 @@
 <br/>
 
 
-## Repos:
-* [MochaVim](https://github.com/ElisStaaf/MochaVim)
+## Repos 📗:
+* [MochaVim](https://github.com/ElisStaaf/MochaVim) ☕
   * The Neovim beginner's best friend!  
     An intuitive and easy to use Neovim config!
-* [NanoWiki](https://github.com/ElisStaaf/NanoWiki)
+* [NanoWiki](https://github.com/ElisStaaf/NanoWiki) 🔎
   * Small locally hosted wiki, written in both
     Golang and HTML!
