@@ -12,12 +12,18 @@ I'm a fullstack developer that mostly programs tools/apps!
 [![Learning](https://skillicons.dev/icons?i=lua,rust,cs,dotnet,cpp,)](https://github.com/ElisStaaf)
 
 ### Repos
+* [QV](https://github.com/ElisStaaf/qv) 👾
+  * Minimalist terminal-based text editor
+    written in C!
 * [MochaVim](https://github.com/ElisStaaf/MochaVim) ☕
-  * The Neovim beginner's best friend!  
+  * The Neovim beginner's best friend;
     An intuitive and easy to use Neovim config!
 * [NanoWiki](https://github.com/ElisStaaf/NanoWiki) 🔎
   * Small locally hosted wiki, written in both
     Golang and HTML!
+* [Donut.c](https://github.com/ElisStaaf/Donut.c) 🍩
+  * Small donut-shaped program that generates a
+    spinning donut!
 
 ### Stats
 <a href="">
