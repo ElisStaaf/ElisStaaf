@@ -16,6 +16,9 @@ I'm a fullstack developer that mostly programs tools/apps!
 * [QV](https://github.com/ElisStaaf/qv) 👾
   * Minimalist terminal-based text editor
     written in C!
+* [lazy](https://github.com/ElisStaaf/lazy) 💤
+  * A C module for lazy people, including
+    you. I _know_ you are.
 * [MochaVim](https://github.com/ElisStaaf/MochaVim) ☕
   * The Neovim beginner's best friend;
     An intuitive and easy to use Neovim config!
