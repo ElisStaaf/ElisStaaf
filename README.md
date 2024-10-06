@@ -28,9 +28,6 @@ I'm a fullstack developer that mostly programs tools/apps!
 * [NanoWiki](https://github.com/ElisStaaf/NanoWiki) 🔎
   * Small locally hosted wiki, written in both
     Golang and HTML!
-* [Donut.c](https://github.com/ElisStaaf/Donut.c) 🍩
-  * Small donut-shaped program that generates a
-    spinning donut!
 
 ### Stats
 <a href="">
