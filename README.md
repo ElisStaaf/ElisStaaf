@@ -2,7 +2,7 @@ Hello World! 👋
 ---------
 [![Editor](https://img.shields.io/badge/Code%20Editor-Neovim-brightgreen?logo=Neovim)](https://neovim.io) 
 [![Lang](https://img.shields.io/badge/Favourite%20Language-C-lightgrey?logo=C)](https://en.wikipedia.org/wiki/The_C_Programming_Language)
-[![OS](https://img.shields.io/badge/Operating%20System-Fedora-blue?logo=Fedora)](https://fedoraproject.org/)  
+[![OS](https://img.shields.io/badge/Operating%20System-Gentoo-9c2fd0?logo=Gentoo)](https://fedoraproject.org/)  
 I'm a fullstack developer that mostly programs tools/apps!
 
 ### Im good at
