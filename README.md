@@ -17,16 +17,19 @@ I'm a fullstack developer that mostly programs tools/apps!
 * [QV](https://github.com/ElisStaaf/qv) 👾
   * Minimalist terminal-based text editor
     written in C!
+* [ZE](https://github.com/ElisStaaf/ze) 📂
+  * *The* file explorer for terminal nerds,
+    minimalists & people with slow computers!
+* [soup](https://github.com/ElisStaaf/soup) 🍲
+  * Incredible command line tool to find
+    something in a string. Okay, it's grep,
+    but written in go.
 * [lazy](https://github.com/ElisStaaf/lazy) 💤
   * A C module for lazy people, including
     you. I _know_ you are.
 * [EspressoScript](https://github.com/ElisStaaf/EspressoScript) ☕
   * Programming language written in the 2nd best
     language: go.
-* [soup](https://github.com/ElisStaaf/soup) 🍲
-  * Incredible command line tool to find
-    something in a string. Okay, it's grep,
-    but written in go.
 * [MochaVim](https://github.com/ElisStaaf/MochaVim) 🧋
   * The Neovim beginner's best friend;
     An intuitive and easy to use Neovim config!
