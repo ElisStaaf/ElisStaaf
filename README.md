@@ -27,9 +27,6 @@ I'm a fullstack developer that mostly programs tools/apps!
 * [lazy](https://github.com/ElisStaaf/lazy) 💤
   * A C module for lazy people, including
     you. I _know_ you are.
-* [EspressoScript](https://github.com/ElisStaaf/EspressoScript) ☕
-  * Programming language written in the 2nd best
-    language: go.
 * [MochaVim](https://github.com/ElisStaaf/MochaVim) 🧋
   * The Neovim beginner's best friend;
     An intuitive and easy to use Neovim config!
