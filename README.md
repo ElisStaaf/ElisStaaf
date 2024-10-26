@@ -8,7 +8,7 @@ I'm a fullstack developer that mostly programs tools/apps!
 ### Im good at
 [![Skills](https://skillicons.dev/icons?i=c,go,typescript,javascript,html)](https://github.com/ElisStaaf)  
 [![Skills](https://skillicons.dev/icons?i=css,python,godot,powershell,bash)](https://github.com/ElisStaaf)  
-[![Skills](https://skillicons.dev/icons?i=lua,cpp,git)](https://github.com/ElisStaaf)
+[![Skills](https://skillicons.dev/icons?i=lua,cpp,git,elixir)](https://github.com/ElisStaaf)
 
 ### I'm learning
 [![Learning](https://skillicons.dev/icons?i=rust,cs,dotnet,tailwind)](https://github.com/ElisStaaf)
