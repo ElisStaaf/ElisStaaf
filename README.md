@@ -14,7 +14,7 @@ I'm a fullstack developer that mostly programs tools/apps!
 [![Learning](https://skillicons.dev/icons?i=rust,cs,dotnet,tailwind)](https://github.com/ElisStaaf)
 
 ### Repos
-* [QV](https://github.com/ElisStaaf/qv) 👾
+* [Vine](https://github.com/ElisStaaf/vine) 👾
   * Minimalist terminal-based text editor
     written in C!
 * [ZE](https://github.com/ElisStaaf/ze) 📂
