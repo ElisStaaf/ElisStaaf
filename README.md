@@ -23,7 +23,7 @@ working on something C-based. I've made some really good projects! I also use Ne
 * ☕ [**MochaVim**](https://github.com/ElisStaaf/MochaVim)
   * The Neovim beginner's best friend;
     An intuitive and easy to use Neovim config!
-* 🦑 [**Octal**](https://github.com/ElisStaaf/NanoWiki)
+* 🦑 [**Octal**](https://github.com/ElisStaaf/octal)
   * Small LOC counter, kinda like CLOC, but worse.
     Written in go btw.
 
