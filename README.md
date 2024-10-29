@@ -23,9 +23,9 @@ working on something C-based. I've made some really good projects! I also use Ne
 * ☕ [**MochaVim**](https://github.com/ElisStaaf/MochaVim)
   * The Neovim beginner's best friend;
     An intuitive and easy to use Neovim config!
-* 🌐 [**NanoWiki**](https://github.com/ElisStaaf/NanoWiki)
-  * Small locally hosted wiki, written in both
-    Golang and HTML!
+* 🦑 [**Octal**](https://github.com/ElisStaaf/NanoWiki)
+  * Small LOC counter, kinda like CLOC, but worse.
+    Written in go btw.
 
 ### Stats
 <a href="">
