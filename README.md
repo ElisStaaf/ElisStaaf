@@ -17,9 +17,9 @@ working on something C-based. I've made some really good projects! I also use Ne
   * Incredible command line tool to find
     something in a string. Okay, it's grep,
     but written in go.
-* 💤 [**Lazy**](https://github.com/ElisStaaf/lazy)
-  * A C module for lazy people, including
-    you. I _know_ you are.
+* 🛠️ [**FMake**](https://github.com/ElisStaaf/FMake)
+  * A "Make" language built with python. Compiles to
+    M4 macro preprocessing.
 * ☕ [**MochaVim**](https://github.com/ElisStaaf/MochaVim)
   * The Neovim beginner's best friend;
     An intuitive and easy to use Neovim config!
