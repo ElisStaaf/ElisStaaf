@@ -29,8 +29,8 @@ working on something C-based. I've made some really good projects! I also use Ne
 
 ### Stats
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=github_dark&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=dracula&show_icons=true"/>
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisStaaf&theme=github_dark&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElisStaaf&theme=dracula&layout=compact"/>
 </a>
