@@ -41,10 +41,10 @@ Repos
 
 Stats
 -----
-.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=radical&show_icons=true
+.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=rose_pine&show_icons=true
    :alt: Stats
    :target: https://github.com/ElisStaaf
-.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=ElisStaaf&theme=radical&layout=compact
+.. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=rose_pine&layout=compact
    :alt: Most used languages
    :target: https://github.com/ElisStaaf
 
