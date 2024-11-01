@@ -29,7 +29,7 @@ Repos
 
 * 🛠️ `fmake`_
 
-  * A "Make" language built with python. Compiles to M4 macro preprocessing.
+  * A "Make" language built with Go. Compiles to M4 macro processing.
 
 * ☕ `mochavim`_
 
