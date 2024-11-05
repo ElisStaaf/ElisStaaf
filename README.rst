@@ -15,11 +15,11 @@ working on something C-based. I've made some really good projects! I also use Ne
 
 Repos
 -----
-* 📝 `vine`_
+* 📝 `Vine`_
 
   * Minimalist terminal-based text editor written in C!
 
-* 📂 `ze`_
+* 📂 `ZE`_
 
   * *The* file explorer for terminal nerds, minimalists and people with slow computers!
 
@@ -27,30 +27,35 @@ Repos
 
   * Incredible command line tool to find something in a file. Okay, it's grep, but written in go.
 
-* 🛠️ `fmake`_
+* 🛠️ `FMake`_
 
   * A "Make" language built with Go. Compiles to M4 macro processing.
 
-* ☕ `mochavim`_
+* ☕ `MochaVim`_
 
   * The Neovim beginner's best friend; An intuitive and easy to use Neovim config!
 
-* 🦑 `octal`_
+* 🦑 `Octal`_
 
   * Small LOC counter, kinda like CLOC, but worse. Written in go btw.
+
+* 🐦‍⬛ `CAAAW`_
+
+  * The bird password manager, in the sense that it's like a bird; sometimes majestic but sometimes a gremlin.
 
 Stats
 -----
 .. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000
    :alt: Stats
    :target: https://github.com/ElisStaaf
-.. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&border_radius=0&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000
+.. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&layout=compact&border_radius=0&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33365000
    :alt: Most used languages
-   :target: https://github.com/ElisSta
+   :target: https://github.com/ElisStaaf
 
-.. _`vine`: https://github.com/ElisStaaf/vine
-.. _`ze`: https://github.com/ElisStaaf/ze
+.. _`Vine`: https://github.com/ElisStaaf/vine
+.. _`ZE`: https://github.com/ElisStaaf/ze
 .. _`soup`: https://github.com/ElisStaaf/soup
-.. _`fmake`: https://github.com/ElisStaaf/FMake
-.. _`mochavim`: https://github.com/ElisStaaf/MochaVim
-.. _`octal`: https://github.com/ElisStaaf/octal
+.. _`FMake`: https://github.com/ElisStaaf/FMake
+.. _`MochaVim`: https://github.com/ElisStaaf/MochaVim
+.. _`Octal`: https://github.com/ElisStaaf/octal
+.. _`CAAAW`: https://github.com/ElisStaaf/CAAAW
