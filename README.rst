@@ -41,12 +41,12 @@ Repos
 
 Stats
 -----
-.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=github_dark&show_icons=true
+.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000
    :alt: Stats
    :target: https://github.com/ElisStaaf
-.. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=github_dark&layout=compact
+.. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&border_radius=0&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000
    :alt: Most used languages
-   :target: https://github.com/ElisStaaf
+   :target: https://github.com/ElisSta
 
 .. _`vine`: https://github.com/ElisStaaf/vine
 .. _`ze`: https://github.com/ElisStaaf/ze
