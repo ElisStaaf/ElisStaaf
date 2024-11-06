@@ -58,4 +58,4 @@ Stats
 .. _`FMake`: https://github.com/ElisStaaf/FMake
 .. _`MochaVim`: https://github.com/ElisStaaf/MochaVim
 .. _`Octal`: https://github.com/ElisStaaf/octal
-.. _`CAAAW`: https://github.com/ElisStaaf/caw
+.. _`CAW`: https://github.com/ElisStaaf/caw
