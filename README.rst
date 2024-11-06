@@ -1,12 +1,12 @@
 Hello World! 👋
 ------------
-.. image:: https://img.shields.io/badge/Code%20Editor-Neovim-18e73a?logo=Neovim&logColor=18e73a&style=for-the-badge
+.. image:: https://img.shields.io/badge/Code%20Editor-Neovim-grey?logo=neovim&logoColor=white&labelColor=26d931&style=for-the-badge
    :alt: Code Editor = Neovim
    :target: https://github.com/ElisStaaf
-.. image:: https://img.shields.io/badge/Favourite%20Language-C-9d9d9d?logo=C&logoColor=9d9d9d&style=for-the-badge
+.. image:: https://img.shields.io/badge/Favourite%20Language-C-grey?logo=c&logoColor=white&labelColor=blue&style=for-the-badge
    :alt: Favourite Language = C
    :target: https://github.com/ElisStaaf
-.. image:: https://img.shields.io/badge/Operating%20System-Fedora%20Linux-2b65d4?logo=fedora&logoColor=2b65d4&style=for-the-badge
+.. image:: https://img.shields.io/badge/Operating%20System-Fedora%20Linux-grey?logo=fedora&logoColor=white&labelColor=3662c9&style=for-the-badge
    :alt: Operating System = Fedora Linux
    :target: https://github.com/ElisStaaf
 
