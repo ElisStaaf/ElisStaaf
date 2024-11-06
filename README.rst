@@ -39,7 +39,7 @@ Repos
 
   * Small LOC counter, kinda like CLOC, but worse. Written in go btw.
 
-* 🐦‍⬛ `CAAAW`_
+* 🐦‍⬛ `CAW`_
 
   * The bird password manager, in the sense that it's like a bird; sometimes majestic but sometimes a gremlin.
 
@@ -58,4 +58,4 @@ Stats
 .. _`FMake`: https://github.com/ElisStaaf/FMake
 .. _`MochaVim`: https://github.com/ElisStaaf/MochaVim
 .. _`Octal`: https://github.com/ElisStaaf/octal
-.. _`CAAAW`: https://github.com/ElisStaaf/CAAAW
+.. _`CAAAW`: https://github.com/ElisStaaf/caw
