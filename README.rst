@@ -35,9 +35,9 @@ Repos
 
   * The Neovim beginner's best friend; An intuitive and easy to use Neovim config!
 
-* 🦑 `Octal`_
+* 📦 `Saturn`_
 
-  * Small LOC counter, kinda like CLOC, but worse. Written in go btw.
+  * Small and unreliable package manager written in C.
 
 * 🐦‍⬛ `CAW`_
 
@@ -57,5 +57,5 @@ Stats
 .. _`soup`: https://github.com/ElisStaaf/soup
 .. _`FMake`: https://github.com/ElisStaaf/FMake
 .. _`MochaVim`: https://github.com/ElisStaaf/MochaVim
-.. _`Octal`: https://github.com/ElisStaaf/octal
+.. _`Saturn`: https://github.com/ElisStaaf/saturn
 .. _`CAW`: https://github.com/ElisStaaf/caw
