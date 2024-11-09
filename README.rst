@@ -19,6 +19,10 @@ Repos
 
   * Minimalist terminal-based text editor written in C!
 
+* 🪁 `Kite`_
+
+  * A pure and minimal programming language written in C.
+
 * 📂 `ZE`_
 
   * *The* file explorer for terminal nerds, minimalists and people with slow computers!
@@ -53,6 +57,7 @@ Stats
    :target: https://github.com/ElisStaaf
 
 .. _`Vine`: https://github.com/ElisStaaf/vine
+.. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`ZE`: https://github.com/ElisStaaf/ze
 .. _`soup`: https://github.com/ElisStaaf/soup
 .. _`FMake`: https://github.com/ElisStaaf/FMake
