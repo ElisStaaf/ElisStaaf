@@ -10,8 +10,17 @@ Hello World! 👋
    :alt: Operating System = Fedora Linux
    :target: https://github.com/ElisStaaf
 
-I'm a fullstack developer from Sweden that mostly programs tools/apps! I most often program more low-level things & with more low-level languages. I'm most likely
-working on something C-based. I've made some really good projects! I also use Neovim btw.
+I'm a fullstack developer from Sweden that mostly programs applications! I most often program more low-level things and with more
+low-level languages. I'm most likely working on something C-based (C is better than C++, sue me). I also use Neovim btw.
+
+Hot Takes
+---------
+* C *is* better than C++.
+* Vim and Neovim are the best
+  code editors.
+* YAML is good, actually.
+* Go is better than Rust, and
+  it's not even close.
 
 Repos
 -----
@@ -25,7 +34,8 @@ Repos
 
 * ⚙️ `OSk`_
 
-  * A *very* generic operating system kernel written in C and ASM-x86_64. Yes, that means it's only available for x86_64 (for now).
+  * A *very* generic operating system kernel written in C and ASM-x86_64. 
+    Yes, that means it's only available for x86_64 (for now).
 
 * 📂 `ZE`_
 
