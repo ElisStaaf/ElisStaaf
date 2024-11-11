@@ -25,7 +25,7 @@ Repos
 
 * ⚙️ `OSk`_
 
-  * A *very* generic operating system kernel written in (mostly) assembly-x86_64. Yes, that means it's only available for x86_6 (for now).
+  * A *very* generic operating system kernel written in (mostly) assembly-x86_64. Yes, that means it's only available for x86_64 (for now).
 
 * 📂 `ZE`_
 
