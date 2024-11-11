@@ -23,13 +23,17 @@ Repos
 
   * A pure and minimal programming language written in C.
 
+* ⚙️ `OSk`_
+
+  * A *very* generic operating system kernel written in (mostly) assembly-x86_64. Yes, that means it's only available for x86_6 (for now).
+
 * 📂 `ZE`_
 
   * *The* file explorer for terminal nerds, minimalists and people with slow computers!
 
 * 🍲 `soup`_
 
-  * Incredible command line tool to find something in a file. Okay, it's grep, but written in go.
+  * Incredible command line tool to find some thing in a file. Okay, it's grep, but written in go.
 
 * 🛠️ `FMake`_
 
@@ -58,6 +62,7 @@ Stats
 
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
+.. _`OSk`: https://github.com/ElisStaaf/OSk
 .. _`ZE`: https://github.com/ElisStaaf/ze
 .. _`soup`: https://github.com/ElisStaaf/soup
 .. _`FMake`: https://github.com/ElisStaaf/FMake
