@@ -13,15 +13,6 @@ Hello World! 👋
 I'm a fullstack developer from Sweden that mostly programs applications! I most often program more low-level things and with more
 low-level languages. I'm most likely working on something C-based (C is better than C++, sue me). I also use Neovim btw.
 
-Hot Takes
----------
-* C *is* better than C++.
-* Vim and Neovim are the best
-  code editors.
-* YAML is good, actually.
-* Go is better than Rust, and
-  it's not even close.
-
 Repos
 -----
 * 📝 `Vine`_
