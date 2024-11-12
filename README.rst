@@ -23,10 +23,9 @@ Repos
 
   * A pure and minimal programming language written in C.
 
-* ⚙️ `OSk`_
+* 🦪 `pearlOS`_
 
-  * A *very* generic operating system kernel written in C and ASM-x86_64. 
-    Yes, that means it's only available for x86_64 (for now).
+  * A complete operating system for complete madlads.
 
 * 📂 `ZE`_
 
@@ -63,7 +62,7 @@ Stats
 
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
-.. _`OSk`: https://github.com/ElisStaaf/OSk
+.. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
 .. _`ZE`: https://github.com/ElisStaaf/ze
 .. _`soup`: https://github.com/ElisStaaf/soup
 .. _`FMake`: https://github.com/ElisStaaf/FMake
