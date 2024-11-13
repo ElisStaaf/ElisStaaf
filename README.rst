@@ -15,6 +15,10 @@ low-level languages. I'm most likely working on something C-based (C is better t
 
 Repos
 -----
+* 🦪 `pearlOS`_
+
+  * A complete operating system for complete madlads.
+
 * 📝 `Vine`_
 
   * Minimalist terminal-based text editor written in C!
@@ -22,10 +26,6 @@ Repos
 * 🪁 `Kite`_
 
   * A pure and minimal programming language written in C.
-
-* 🦪 `pearlOS`_
-
-  * A complete operating system for complete madlads.
 
 * 📂 `ZE`_
 
