@@ -60,6 +60,8 @@ Stats
    :alt: Most used languages
    :target: https://github.com/ElisStaaf
 
+.. image:: https://github-profile-trophy.vercel.app/?username=ElisStaaf&theme=onedark
+
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
