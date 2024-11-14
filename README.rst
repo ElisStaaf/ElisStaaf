@@ -60,7 +60,13 @@ Stats
    :alt: Most used languages
    :target: https://github.com/ElisStaaf
 
+.. raw:: html
+   
+   <br><p></p>
+
 .. image:: https://github-profile-trophy.vercel.app/?username=ElisStaaf&theme=onedark
+   :alt: Trophies
+   :target: https://github.com/ElisStaaf
 
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
