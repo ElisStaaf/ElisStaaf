@@ -51,12 +51,16 @@ Repos
 
   * The bird password manager, in the sense that it's like a bird; sometimes majestic but sometimes a gremlin.
 
+* 🐮 `Cowsay`_
+
+  * What does the cow say? Moo. A cowsay clone.
+
 Stats
 -----
-.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33365000
+.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33366000
    :alt: Stats
    :target: https://github.com/ElisStaaf
-.. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&layout=compact&border_radius=0&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33370000
+.. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&layout=compact&border_radius=0&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33371000
    :alt: Most used languages
    :target: https://github.com/ElisStaaf
 
@@ -77,3 +81,4 @@ Stats
 .. _`MochaVim`: https://github.com/ElisStaaf/MochaVim
 .. _`Saturn`: https://github.com/ElisStaaf/saturn
 .. _`CAW`: https://github.com/ElisStaaf/caw
+.. _`Cowsay`: https://github.com/ElisStaaf/cowsay
