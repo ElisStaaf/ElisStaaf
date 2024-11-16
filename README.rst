@@ -27,6 +27,9 @@ Repos
 
   * A pure and minimal programming language written in C.
 
+* 🐢 `TSH`_
+  * Turtle SHell is a linux shell written in rust.
+
 * 📂 `ZE`_
 
   * *The* file explorer for terminal nerds, minimalists and people with slow computers!
@@ -75,6 +78,7 @@ Stats
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
+.. _`pearlOS`: https://github.com/ElisStaaf/tsh
 .. _`ZE`: https://github.com/ElisStaaf/ze
 .. _`soup`: https://github.com/ElisStaaf/soup
 .. _`FMake`: https://github.com/ElisStaaf/FMake
