@@ -6,8 +6,8 @@ Hello World! 👋
 .. image:: https://img.shields.io/badge/Favourite%20Language-C-grey?logo=c&logoColor=white&labelColor=blue&style=for-the-badge
    :alt: Favourite Language = C
    :target: https://github.com/ElisStaaf
-.. image:: https://img.shields.io/badge/Operating%20System-Fedora%20Linux-grey?logo=fedora&logoColor=white&labelColor=3662c9&style=for-the-badge
-   :alt: Operating System = Fedora Linux
+.. image:: https://img.shields.io/badge/Operating%20System-Manjaro-grey?logo=manjaro&logoColor=white&labelColor=2cd33b&style=for-the-badge
+   :alt: Operating System = Manjaro
    :target: https://github.com/ElisStaaf
 
 I'm a fullstack developer from Sweden that mostly programs applications! I most often program more low-level things and with more
