@@ -72,7 +72,7 @@ Stats
    
    <br><p></p>
 
-.. image:: https://github-profile-trophy.vercel.app/?username=ElisStaaf&theme=onedark
+.. image:: https://github-profile-trophy.vercel.app/?username=ElisStaaf&theme=nord
    :alt: Trophies
    :target: https://github.com/ElisStaaf
 
