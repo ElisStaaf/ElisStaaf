@@ -61,7 +61,7 @@ Repos
 
 Stats
 -----
-.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33366000
+.. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33367000
    :alt: Stats
    :target: https://github.com/ElisStaaf
 .. image:: https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&layout=compact&border_radius=0&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33372000
@@ -72,7 +72,7 @@ Stats
    
    <br><p></p>
 
-.. image:: https://github-profile-trophy.vercel.app/?username=ElisStaaf&theme=nord
+.. image:: https://github-profile-trophy.vercel.app/?username=ElisStaaf&theme=onedark
    :alt: Trophies
    :target: https://github.com/ElisStaaf
 
