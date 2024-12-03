@@ -17,7 +17,7 @@ Repos
 -----
 * 🦪 `pearlOS`_
 
-  * A complete operating system for complete madlads.
+  * A complete operating system for complete madlads!
 
 * 📝 `Vine`_
 
@@ -26,6 +26,10 @@ Repos
 * 🪁 `Kite`_
 
   * A pure and minimal programming language written in C.
+
+* 🌐 `MicroBlog`_
+
+  * Tiny little engine/framework for building a blog with Common Lisp.
 
 * 🐢 `TSH`_
 
@@ -79,6 +83,7 @@ Stats
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
+.. _`MicroBlog`: https://github.com/ElisStaaf/microblog
 .. _`TSH`: https://github.com/ElisStaaf/tsh
 .. _`ZE`: https://github.com/ElisStaaf/ze
 .. _`soup`: https://github.com/ElisStaaf/soup
