@@ -19,10 +19,6 @@ Repos
 
   * A complete operating system for complete madlads!
 
-* 🎮 `Pomme`_
-
-  * A pretty simple, yet still useful Sega Genesis emulator.
-
 * 📝 `Vine`_
 
   * Minimalist terminal-based text editor written in C!
