@@ -83,7 +83,6 @@ Stats
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
-.. _`Pomme`: https://github.com/ElisStaaf/pomme
 .. _`MicroBlog`: https://github.com/ElisStaaf/microblog
 .. _`TSH`: https://github.com/ElisStaaf/tsh
 .. _`ZE`: https://github.com/ElisStaaf/ze
