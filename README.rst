@@ -27,6 +27,10 @@ Repos
 
   * A pure and minimal programming language written in C.
 
+* ♾️ `EBisp`_
+  
+  * *Incredibly* lightweight lisp implementation.
+
 * 🌐 `MicroBlog`_
 
   * Tiny little engine/framework for building a blog with Common Lisp.
@@ -83,6 +87,7 @@ Stats
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
+.. _`EBisp`: https://github.com/ElisStaaf/ebisp
 .. _`MicroBlog`: https://github.com/ElisStaaf/microblog
 .. _`TSH`: https://github.com/ElisStaaf/tsh
 .. _`ZE`: https://github.com/ElisStaaf/ze
