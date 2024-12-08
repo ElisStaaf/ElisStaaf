@@ -19,6 +19,10 @@ Repos
 
   * A complete operating system for complete madlads!
 
+* 📜 `OpenVim`_
+
+  * Incredibly minimalist terminal-based text/code editor written in C/C++!
+
 * 📝 `Vine`_
 
   * Minimalist terminal-based text editor written in C!
@@ -87,6 +91,7 @@ Stats
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
+.. _`OpenVim`: https://github.com/ElisStaaf/openvim
 .. _`EBisp`: https://github.com/ElisStaaf/ebisp
 .. _`MicroBlog`: https://github.com/ElisStaaf/microblog
 .. _`TSH`: https://github.com/ElisStaaf/tsh
