@@ -67,6 +67,10 @@ Repos
 
   * The bird password manager, in the sense that it's like a bird; sometimes majestic but sometimes a gremlin.
 
+* 😴 `YAW`_
+
+  * A slightly stupid python web framework I made in my free time and will never update again (probably).
+
 * 🐮 `Cowsay`_
 
   * What does the cow say? Moo. A cowsay clone.
@@ -102,3 +106,4 @@ Stats
 .. _`Saturn`: https://github.com/ElisStaaf/saturn
 .. _`CAW`: https://github.com/ElisStaaf/caw
 .. _`Cowsay`: https://github.com/ElisStaaf/cowsay
+.. _`YAW`: https://github.com/ElisStaaf/yaw
