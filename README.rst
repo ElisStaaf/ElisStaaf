@@ -75,6 +75,10 @@ Repos
 
   * What does the cow say? Moo. A cowsay clone.
 
+* 🧩 `OpenFrame`_
+
+  * The LEAST functioning web framework EVER.
+
 Stats
 -----
 .. image:: https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33364000
@@ -107,3 +111,4 @@ Stats
 .. _`CAW`: https://github.com/ElisStaaf/caw
 .. _`Cowsay`: https://github.com/ElisStaaf/cowsay
 .. _`YAW`: https://github.com/ElisStaaf/yaw
+.. _`OpenFrame`: https://github.com/ElisStaaf/openframe
