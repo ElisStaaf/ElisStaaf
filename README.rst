@@ -67,6 +67,10 @@ Repos
 
   * The bird password manager, in the sense that it's like a bird; sometimes majestic but sometimes a gremlin.
 
+* 💤 `Lazy`_
+
+  * C StdLib replacement, aims at making readable code.
+
 * 😴 `YAW`_
 
   * A slightly stupid python web framework I made in my free time and will never update again (probably).
@@ -112,3 +116,4 @@ Stats
 .. _`Cowsay`: https://github.com/ElisStaaf/cowsay
 .. _`YAW`: https://github.com/ElisStaaf/yaw
 .. _`OpenFrame`: https://github.com/ElisStaaf/openframe
+.. _`Lazy`: https://github.com/ElisStaaf/lazy
