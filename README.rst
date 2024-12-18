@@ -17,7 +17,11 @@ Repos
 -----
 * 🦪 `pearlOS`_
 
-  * A complete operating system for complete madlads!
+  * A complete operating system for complete madlads! 
+
+* 👁️‍🗨️ `VoidOS`_
+
+  * A pet project focusing on improving the xv6 operating system.
 
 * 📜 `OpenVim`_
 
@@ -103,6 +107,7 @@ Stats
 .. _`Vine`: https://github.com/ElisStaaf/vine
 .. _`Kite`: https://github.com/ElisStaaf/kite
 .. _`pearlOS`: https://github.com/ElisStaaf/pearlOS
+.. _`VoidOS`: https://github.com/ElisStaaf/voidos
 .. _`OpenVim`: https://github.com/ElisStaaf/openvim
 .. _`EBisp`: https://github.com/ElisStaaf/ebisp
 .. _`MicroBlog`: https://github.com/ElisStaaf/microblog
