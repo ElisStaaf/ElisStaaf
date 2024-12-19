@@ -39,6 +39,8 @@ low-level languages. I'm most likely working on something C-based (C is better t
   * The bird password manager, in the sense that it's like a bird; sometimes majestic but sometimes a gremlin.
 * 💤 [Lazy](https://github.com/ElisStaaf/lazy)
   * C StdLib replacement, aims at making readable code.
+* 😡 [BadC](https://github.com/ElisStaaf/BadC)
+  * TERRIBLE C imitation, intepreted *and* written in python.
 * 😴 [YAW]( https://github.com/ElisStaaf/yaw)
   * A slightly stupid python web framework I made in my free time and will never update again (probably).
 * 🐮 [Cowsay](https://github.com/ElisStaaf/cowsay)
