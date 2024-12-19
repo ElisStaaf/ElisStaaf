@@ -13,8 +13,8 @@ Hello World! 👋
 I'm a fullstack developer from Sweden that mostly programs applications! I most often program more low-level things and with more
 low-level languages. I'm most likely working on something C-based (C is better than C++, sue me). I also use Neovim btw.
 
-Repos
------
+Projects
+--------
 * 🦪 `pearlOS`_
 
   * A complete operating system for complete madlads! 
