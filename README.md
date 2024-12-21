@@ -10,7 +10,7 @@ low-level languages. I'm most likely working on something C-based (C is better t
 ## Projects
 
 * 🦪 [pearlOS](https://github.com/ElisStaaf/pearlOS)
-  * A complete operating system for complete madlads! 
+  * A complete yet minimalist operating system written in C and Assembly! 
 * 👁️‍🗨️ [VoidOS](https://github.com/ElisStaaf/voidos)
   * A pet project focusing on improving the xv6 operating system.
 * 📜 [OpenVim](https://github.com/ElisStaaf/openvim)
