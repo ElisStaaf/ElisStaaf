@@ -45,6 +45,8 @@ low-level languages. I'm most likely working on something C-based (C is better t
   * TERRIBLE C imitation, intepreted *and* written in python.
 * 😴 [YAW](https://github.com/ElisStaaf/yaw)
   * A slightly stupid python web framework I made in my free time and will never update again (probably).
+* 🎨 [MyColour](https://github.com/ElisStaaf/mycolour)
+  * A useful colour library for Golang.
 * 🐮 [Cowsay](https://github.com/ElisStaaf/cowsay)
   * What does the cow say? Moo. A cowsay clone.
 * 🧩 [OpenFrame](https://github.com/ElisStaaf/openframe)
