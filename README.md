@@ -38,7 +38,7 @@ int main(int argc, char **argv) {
 
     printf("Tools: ");
     int j = 0;
-    while (++j <= (sizeof(Elis.tools) / sizeof(*Elis.tools))) {
+    while (++j < (sizeof(Elis.tools) / sizeof(*Elis.tools))) {
         printf("%s, ", Elis.tools[j]);
     }
     printf("\n");
