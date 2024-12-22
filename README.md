@@ -53,6 +53,3 @@ int main(int argc, char **argv) {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&layout=compact&border_radius=0&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33366200" />
 </a>
 <br><p></p>
-<a href="">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ElisStaaf&theme=onedark&no-frame=true&margin-w=10&column=10" />
-</a>
