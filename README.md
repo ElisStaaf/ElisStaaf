@@ -5,8 +5,6 @@
 ```c
 #include <stdio.h>
 
-#define Amateur(x) (x)
-
 struct Programmer {
     char *name;
     char *langs[];
