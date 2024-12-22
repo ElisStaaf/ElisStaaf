@@ -17,7 +17,7 @@ low-level languages. I'm most likely working on something C-based (C is better t
   * Incredibly minimalist terminal-based text/code editor written in C/C++!
 * 📝 [Vine](https://github.com/ElisStaaf/vine)
   * Minimalist terminal-based text editor written in C!
-* 🪁 [Kite](kite)
+* 🪁 [Kite](https://github.com/ElisStaaf/kite)
   * A pure and minimal programming language written in C.
 * 🌑 [PNase](https://github.com/ElisStaaf/PNase)
   * Patched and improved version of the "NASE A60 V0.22" Algol60 interpeter.
