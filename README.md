@@ -2,13 +2,14 @@
 
 [![From Hello World I've written ~50k Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written%20-~50k%20Lines%20Of%20Code-blue)](/)
 [![My Favourite Language Is C](https://img.shields.io/badge/My%20Favourite%20Language%20Is-C-lightgray?logo=c)](/)
+
 ```c
 #include <stdio.h>
 
 struct Programmer {
     char *name;
-    char *langs[];
-    char *tools[];
+    char *langs[8];
+    char *tools[8];
 };
 
 struct Programmer Elis = {
@@ -30,15 +31,15 @@ int main(int argc, char **argv) {
 
     printf("Langs: ");
     int i = 0;
-    while (++i <= (sizeof(Elis.langs) / sizeof(*Elis.langs)) {
+    while (++i <= (sizeof(Elis.langs) / sizeof(*Elis.langs))) {
         printf("%s, ", Elis.langs[i]);
     }
     printf("\n");
 
     printf("Tools: ");
-    int i = 0;
-    while (++i <= (sizeof(Elis.tools) / sizeof(*Elis.tools)) {
-        printf("%s, ", Elis.tools[i]);
+    int j = 0;
+    while (++j <= (sizeof(Elis.tools) / sizeof(*Elis.tools))) {
+        printf("%s, ", Elis.tools[j]);
     }
     printf("\n");
 
