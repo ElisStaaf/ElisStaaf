@@ -17,7 +17,7 @@
       <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
            alt="Hot!" />
   <br />
-  * My last "main" project:
+  * My favourite side project:
       <a href="https://github.com/ElisStaaf/openvim">OpenVim</a>
       <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
            alt="Hot!" />
