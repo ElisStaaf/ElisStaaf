@@ -12,12 +12,12 @@ folder.
 </span>
 
 <div align=center>
-  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/images/notepad.gif"
+  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/img/notepad.gif"
        alt="Site created with Notepad" height="30" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/images/ie.gif"
+  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/img/ie.gif"
        alt="Microsoft Internet Explorer" />
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/images/noframes.gif"
+  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/img/noframes.gif"
        alt="Campaign against frames!" />
 </div>
