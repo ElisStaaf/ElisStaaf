@@ -1,56 +1,23 @@
-# Hello World! 👋
+<div align=center>
+  <img src="https://github.com/ElisStaaf/ElisStaaf/blob/master/img/welcome.png?raw=true"
+       style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
 
-[![From Hello World I've written ~50k Lines Of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20Written%20-~50k%20Lines%20Of%20Code-blue)](/)
-[![My Favourite Language Is C](https://img.shields.io/badge/My%20Favourite%20Language%20Is-C-lightgray?logo=c)](/)
+<span style="font-family: Arial, Helvetica, sans-serif;">
+Hello! My name is Elis and I am a programmer! I mostly program
+C and C++, but I've dabbled in Assembly, Python and many more
+programming languages! I put most of my code on github because
+I have a fear of losing it somewhere in the abyss of my scripts
+folder.
+</span>
 
-```c
-#include <stdio.h>
-
-struct Programmer {
-    char *name;
-    char *langs[8];
-    char *tools[8];
-};
-
-struct Programmer Elis = {
-    .name  = "Elis Staaf",
-    .langs = {
-        "C", "C++", "ASM",
-        "Python", "Common Lisp",
-        "Rust", "Go", "Make"
-    },
-    .tools = {
-        "Linux", "GCC", "G++",
-        "Neovim", "SBCL", "NASM",
-        "GNU Make", "Pacman",
-    }
-};
-
-int main(int argc, char **argv) {
-    printf("Name:  %s\n", Elis.name);
-
-    printf("Langs: ");
-    int i = 0;
-    while (++i <= (sizeof(Elis.langs) / sizeof(*Elis.langs))) {
-        printf("%s, ", Elis.langs[i]);
-    }
-    printf("\n");
-
-    printf("Tools: ");
-    int j = 0;
-    while (++j < (sizeof(Elis.tools) / sizeof(*Elis.tools))) {
-        printf("%s, ", Elis.tools[j]);
-    }
-    printf("\n");
-
-    return 0;
-}
-```
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElisStaaf&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33366400" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ElisStaaf&theme=nord&layout=compact&border_radius=0&bg_color=12151f&title_color=ffffff&icon_color=3780e8&text_color=ffffff&border_color=33366400" />
-</a>
-<br><p></p>
+<div align=center>
+  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/images/notepad.gif"
+       alt="Site created with Notepad" height="30" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/images/ie.gif"
+       alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/master/images/noframes.gif"
+       alt="Campaign against frames!" />
+</div>
