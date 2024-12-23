@@ -16,7 +16,12 @@
       <a href="https://github.com/ElisStaaf/pearlOS">pearlOS</a>
       <img src="https://github.com/ElisStaaf/ElisStaaf/raw/main/img/hot.gif"
            alt="Hot!" />
-                            
+  <br />
+  * My last "main" project:
+      <a href="https://github.com/ElisStaaf/openvim">OpenVim</a>
+      <img src="https://github.com/ElisStaaf/ElisStaaf/raw/main/img/hot.gif"
+           alt="Hot!" />
+  <br />                    
 </span>
 
 <div align=center>
