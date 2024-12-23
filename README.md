@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://github.com/ElisStaaf/ElisStaaf/raw/main/img/welcome.png"
+  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/welcome.png"
        alt="Welcome to my Github Profile" />
 </div>
 
@@ -14,12 +14,12 @@
   <br />
   * My current "main" project:
       <a href="https://github.com/ElisStaaf/pearlOS">pearlOS</a>
-      <img src="https://github.com/ElisStaaf/ElisStaaf/raw/main/img/hot.gif"
+      <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
            alt="Hot!" />
   <br />
   * My last "main" project:
       <a href="https://github.com/ElisStaaf/openvim">OpenVim</a>
-      <img src="https://github.com/ElisStaaf/ElisStaaf/raw/main/img/hot.gif"
+      <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
            alt="Hot!" />
   <br />                    
 </span>
