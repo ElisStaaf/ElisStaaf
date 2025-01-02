@@ -18,7 +18,7 @@
            alt="Hot!" />
   <br />
   * My favourite side project:
-      <a href="https://github.com/ElisStaaf/openvim">OpenVim</a>
+      <a href="https://github.com/ElisStaaf/myscheme">MyScheme</a>
       <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
            alt="Hot!" />
   <br />                    
