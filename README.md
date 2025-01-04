@@ -12,25 +12,18 @@
   Feel free to contribute on any of my projects, all contributions
   (except for those that break the project ofc) are welcome!
   <br />
-  * My current "main" project:
-      <a href="https://github.com/ElisStaaf/pearlOS">pearlOS</a>
+  - Check out my website
+      <a href="https://elisstaaf.github.io">here</a>
       <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
            alt="Hot!" />
   <br />
-  * My favourite side project:
-      <a href="https://github.com/ElisStaaf/myscheme">MyScheme</a>
+  - Check out my operating system
+      <a href="https://github.com/ElisStaaf/pearlOS">here</a>
       <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
            alt="Hot!" />
-  <br />                    
+  <br />
+  - Check out my Scheme interpreter
+      <a href="https://github.com/ElisStaaf/MyScheme">here</a>
+      <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/hot.gif"
+           alt="Hot!" />
 </span>
-
-<div align=center>
-  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/notepad.gif"
-       alt="Site created with Notepad" height="30" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/ie.gif"
-       alt="Microsoft Internet Explorer" />
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-  <img src="https://raw.githubusercontent.com/ElisStaaf/ElisStaaf/main/img/noframes.gif"
-       alt="Campaign against frames!" />
-</div>
