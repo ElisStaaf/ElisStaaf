@@ -10,7 +10,9 @@
   I have a fear of losing it somewhere in the abyss of my scripts
   folder. Feel free to contribute on any of my projects, all
   contributions (except for those that break the project ofc)
-  are welcome! Oh, and I use Neovim btw!
+  are welcome! Oh, and I use Neovim btw! When I'm not coding, I
+  enjoy indulging in "intellectual" studies such as politics and
+  -- sometimes -- philosophy. I also enjoy reading.
   <br />
   - Check out my website
       <a href="https://elisstaaf.github.io">here</a>
