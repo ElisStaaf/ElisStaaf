@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://raw.githubusercontent.com/bestsalmon/bestsalmon/main/img/welcome.png"
+  <img src="https://raw.githubusercontent.com/callmesalmon/callmesalmon/main/img/welcome.png"
        alt="Welcome to my Github Profile" />
 </div>
 
@@ -15,17 +15,17 @@
   -- sometimes -- philosophy. I also enjoy reading.
   <br />
   - Check out my website
-      <a href="https://bestsalmon.github.io">here</a>
-      <img src="https://raw.githubusercontent.com/bestsalmon/bestsalmon/main/img/hot.gif"
+      <a href="https://callmesalmon.github.io">here</a>
+      <img src="https://raw.githubusercontent.com/callmesalmon/callmesalmon/main/img/hot.gif"
            alt="Hot!" />
   <br />
   - Check out my operating system
-      <a href="https://github.com/bestsalmon/pearlOS">here</a>
-      <img src="https://raw.githubusercontent.com/bestsalmon/bestsalmon/main/img/hot.gif"
+      <a href="https://github.com/callmesalmon/pearlOS">here</a>
+      <img src="https://raw.githubusercontent.com/callmesalmon/callmesalmon/main/img/hot.gif"
            alt="Hot!" />
   <br />
   - Check out my Scheme interpreter
-      <a href="https://github.com/bestsalmon/MyScheme">here</a>
-      <img src="https://raw.githubusercontent.com/bestsalmon/bestsalmon/main/img/hot.gif"
+      <a href="https://github.com/callmesalmon/MyScheme">here</a>
+      <img src="https://raw.githubusercontent.com/callmesalmon/callmesalmon/main/img/hot.gif"
            alt="Hot!" />
 </span>
