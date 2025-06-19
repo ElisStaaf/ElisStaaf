@@ -11,7 +11,7 @@ LOC-count. I mostly do low level programming, as you would realize very quickly 
 
 * Favourite language: C
 * First language: Python (like many others)
-* OS: Archbtw (formerly Manjaro)
+* OS: Fedora (formerly Manjaro)
 
 <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callmesalmon&theme=nord&border_radius=0&layout=compact&bg_color=000102&title_color=17e845&icon_color=17e845&text_color=ffffff&border_color=000102"/></a>
 <a href="#"><img width="45%" src="https://github-readme-stats.vercel.app/api/?username=callmesalmon&theme=nord&border_radius=0&show_icons=true&layout=compact&bg_color=000102&title_color=17e845&icon_color=17e845&text_color=ffffff&border_color=000102"/></a>
