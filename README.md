@@ -1,5 +1,5 @@
 <a href="https://callmesalmon.github.io/"><img src="https://img.shields.io/badge/website-callmesalmon.github.io-black?labelColor=000102&color=17e845&style=flat-square" alt="website"></a>
-<a href="https://https://www.kali.org/"><img src="https://img.shields.io/badge/os-fedora-black?labelColor=000102&color=17e845&style=flat-square" alt="os fedora"></a>
+<a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/os-fedora-black?labelColor=000102&color=17e845&style=flat-square" alt="os fedora"></a>
 <a href="#"><img src="https://img.shields.io/badge/fuck-capitalism-black?labelColor=000102&color=17e845&style=flat-square" alt="fuck capitalism"></a>
 
 Uhh hi I'm Salmon and I do coding sometimes. I also blog sometimes. Yeah that's basically it, I'm not the *most* interesting person on the planet.
