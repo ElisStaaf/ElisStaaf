@@ -3,8 +3,8 @@
 <a href="#"><img src="https://img.shields.io/badge/fuck-capitalism-black?labelColor=000102&color=17e845&style=flat-square" alt="fuck capitalism"></a>
 
 > [!NOTE]
-> Taking a substantial break from github (planning on moving my code production to codeberg).  
-> **Código libre!**, [**Libera internet!**](https://callmesalmon.github.io/books/libera-internet)
+> Moving to [codeberg](https://codeberg.org/). Fuck this shit and fuck capitalism. My old repos will still be up but all of my new code
+> development will be on codeberg (ideally). **Código libre!**, [**Libera internet!**](https://callmesalmon.github.io/books/libera-internet)
 
 Uhh hi I'm Salmon and I do coding sometimes. I also blog sometimes. Yeah that's basically it, I'm not the *most* interesting person on the planet.
 Some notable things I've made are:
