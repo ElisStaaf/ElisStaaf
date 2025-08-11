@@ -2,6 +2,10 @@
 <a href="https://fedoraproject.org/"><img src="https://img.shields.io/badge/os-fedora-black?labelColor=000102&color=17e845&style=flat-square" alt="os fedora"></a>
 <a href="#"><img src="https://img.shields.io/badge/fuck-capitalism-black?labelColor=000102&color=17e845&style=flat-square" alt="fuck capitalism"></a>
 
+> [!NOTE]
+> Taking a substantial break from github (planning on moving my code production to codeberg).
+> **Código libre!**
+
 Uhh hi I'm Salmon and I do coding sometimes. I also blog sometimes. Yeah that's basically it, I'm not the *most* interesting person on the planet.
 Some notable things I've made are:
 
